@@ -9,6 +9,8 @@ And, This game is not done yet....
 
 Because my job is too busy to finish it.....
 
+BTW, ONLY FOR WIN32.
+
 還沒完成的成語小遊戲。
 
 Result:
