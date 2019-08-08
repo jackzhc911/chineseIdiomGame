@@ -9,6 +9,8 @@ And, This game is not done yet....
 
 Because my job is too busy to finish it.....
 
+還沒完成的成語小遊戲。
+
 Result:
 
 ![A Chinese Idiom Game](https://github.com/jackzhc911/chineseIdiomGame/blob/master/example-cIdiomGame.PNG)
